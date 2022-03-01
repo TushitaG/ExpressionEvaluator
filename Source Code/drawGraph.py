@@ -1,6 +1,4 @@
-# Name: Tushita Govindaraj
-# StudentID: 2012155
-# Class: DAAA/FT/2B/02
+
 from turtle import Turtle, Screen, mainloop
 
 class GraphTurtle(Turtle):

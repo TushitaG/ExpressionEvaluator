@@ -1,7 +1,3 @@
-# Name: Jumana Haseen, Tushita Govindaraj
-# StudentID: 2021627, xxxxxxx
-# Class: DAAA/FT/2B/02
-# DSAA CA1 Assignment 2
 
 # MAIN PROGRAM OF APPLICATION
 

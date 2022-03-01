@@ -1,6 +1,3 @@
-# Name: Jumana Haseen
-# StudentID: 2021627
-# Class: DAAA/FT/2B/02
 
 # Evaluate class to read and store expressions from the user input file
 class Evaluate:

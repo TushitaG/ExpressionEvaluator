@@ -1,6 +1,4 @@
-# Name: Tushita Govindaraj
-# StudentID: 2012155
-# Class: DAAA/FT/2B/02
+
 # Data structure to store a binary tree node
 from Node import Node
 from BST import BST

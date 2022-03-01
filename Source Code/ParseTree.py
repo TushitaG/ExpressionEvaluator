@@ -1,6 +1,3 @@
-# Name: Tushita Govindaraj (Mostly), Jumana Haseen (only minor things added for individual part)
-# StudentID: 2012155, 2021627
-# Class: DAAA/FT/2B/02
 
 # Import libraries and modules
 from BinaryTree import BinaryTree

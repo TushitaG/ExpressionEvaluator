@@ -1,6 +1,3 @@
-# Name: Jumana Haseen
-# StudentID: 2021627
-# Class: DAAA/FT/2B/02
 
 # Hashtable to store the expressions and answers for the math game
 class HashTable:

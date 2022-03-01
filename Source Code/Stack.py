@@ -1,6 +1,3 @@
-# Name: Tushita Govindaraj
-# StudentID: 2012155
-# Class: DAAA/FT/2B/02
 
 class Stack: # All Python classes inherit from class object
     def __init__(self):

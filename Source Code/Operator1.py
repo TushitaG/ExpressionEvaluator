@@ -1,6 +1,3 @@
-# Name: Tushita Govindaraj
-# StudentID: 
-# Class: DAAA/FT/2B/02
 
 # Import libraries and modules
 from Evaluate import Evaluate

@@ -1,6 +1,3 @@
-# Name: Tushita Govindaraj
-# StudentID: 2012155
-# Class: DAAA/FT/2B/02
 
 # Binary class to build the expression tree
 class BinaryTree:

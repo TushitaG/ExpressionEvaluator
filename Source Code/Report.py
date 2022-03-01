@@ -1,6 +1,3 @@
-# Name: Jumana Haseen
-# StudentID: 2021627
-# Class: DAAA/FT/2B/02
 
 # Report class to print the expression evaluation report
 class Report:

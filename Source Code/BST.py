@@ -1,6 +1,4 @@
-# Name: Tushita Govindaraj
-# StudentID: 2012155
-# Class: DAAA/FT/2B/02
+
 from BinaryTree import BinaryTree
 class BST(BinaryTree):
     def __init__(self,key,

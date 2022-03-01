@@ -1,7 +1,3 @@
-# Name: Jumana Haseen, Tushita Govindaraj
-# StudentID: 2021627, 2012155
-# Class: DAAA/FT/2B/02
-# DSAA CA1 Assignment 2
 
 # Import libraries and modules
 from ParseTree import ParseTree
